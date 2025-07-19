@@ -1,4 +1,3 @@
----
 ## ExceptionHandling
  - Python Exception Handling handles errors that occur during the execution of a program. Exception handling allows to respond to the error, instead of crashing the running program.
  - Python uses `try`, `except`, `else`, and `finally` blocks to handle exceptions.
@@ -26,7 +25,7 @@ finally:
     # Runs no matter what
 ---
 
-####Common Exception Types
+## Common Exception Types
 
 -**Exception**: Base class for all built-in exceptions except system-exit exceptions.
 - **ArithmeticError**: Base class for errors related to arithmetic operations.
